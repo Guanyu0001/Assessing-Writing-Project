@@ -1,0 +1,42 @@
+prompt_name,holistic_essay_score,count,proportion
+"""A Cowboy Who Rode the Waves""",1,141,10.28
+"""A Cowboy Who Rode the Waves""",2,644,46.94
+"""A Cowboy Who Rode the Waves""",3,470,34.26
+"""A Cowboy Who Rode the Waves""",4,107,7.8
+"""A Cowboy Who Rode the Waves""",5,10,0.73
+Car-free cities,1,139,7.1
+Car-free cities,2,412,21.03
+Car-free cities,3,701,35.78
+Car-free cities,4,539,27.51
+Car-free cities,5,160,8.17
+Car-free cities,6,8,0.41
+Does the electoral college work?,1,191,9.34
+Does the electoral college work?,2,513,25.07
+Does the electoral college work?,3,674,32.94
+Does the electoral college work?,4,466,22.78
+Does the electoral college work?,5,170,8.31
+Does the electoral college work?,6,32,1.56
+Driverless cars,1,36,1.91
+Driverless cars,2,433,22.96
+Driverless cars,3,776,41.15
+Driverless cars,4,489,25.93
+Driverless cars,5,148,7.85
+Driverless cars,6,4,0.21
+Exploring Venus,1,198,10.63
+Exploring Venus,2,549,29.48
+Exploring Venus,3,573,30.77
+Exploring Venus,4,387,20.78
+Exploring Venus,5,124,6.66
+Exploring Venus,6,31,1.66
+Facial action coding system,1,175,8.08
+Facial action coding system,2,678,31.29
+Facial action coding system,3,792,36.55
+Facial action coding system,4,334,15.41
+Facial action coding system,5,139,6.41
+Facial action coding system,6,49,2.26
+The Face on Mars,1,66,4.17
+The Face on Mars,2,484,30.57
+The Face on Mars,3,623,39.36
+The Face on Mars,4,305,19.27
+The Face on Mars,5,88,5.56
+The Face on Mars,6,17,1.07

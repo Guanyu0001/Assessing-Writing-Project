@@ -1,0 +1,5 @@
+model,SMD
+y_pred_tfidf,-0.04159332175681607
+y_pred_bert,0.04871571697905752
+y_pred_chatgpt_zeroshot,0.18613913018519224
+y_pred_chatgpt_fewshot,0.17161058714302335

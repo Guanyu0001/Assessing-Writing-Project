@@ -1,0 +1,2 @@
+# Ignore all experiment run folders
+bert_tune_*/
