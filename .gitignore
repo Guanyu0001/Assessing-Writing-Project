@@ -1,2 +1,9 @@
-# Ignore all experiment run folders
-bert_tune_*/
+# Ignore everything in outputs/
+outputs/*
+
+# Keep only CSV files directly inside outputs/
+!outputs/*.csv
+
+# Ignore everything in subfolders of outputs/
+outputs/*/*
+
