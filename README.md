@@ -2,6 +2,11 @@
 
 This repository contains Jupyter notebooks for data processing, model prediction, and fairness analysis.
 
+
+## Requirements
+- Python **3.10.10**
+- See `requirements.txt` for the exact package versions.
+
 ## Structure
 - `data/`  
   PERSUADE 2.0 dataset files used in the notebooks.
