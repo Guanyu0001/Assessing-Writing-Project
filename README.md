@@ -1,6 +1,6 @@
-# Assessing-Writing-Project
+# Assessing Fairness in AI-assisted Writing Scoring
 
-This repository contains Jupyter notebooks for data processing, model prediction, and fairness analysis.
+Code and supplementary materials for the manuscript on conditional predictive bias measures in automated essay scoring.
 
 ## Requirements
 
